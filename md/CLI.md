@@ -15,3 +15,5 @@ mkdir fus13(폴더명)
 * cp : 복사하기
 * rmdir : 비어있는 디렉토리 지우기
 * rm : 파일이나 폴더 지우기
+
+[README](../README.md)
